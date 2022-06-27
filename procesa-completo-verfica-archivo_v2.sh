@@ -1,4 +1,8 @@
 #!/bin/bash 
+#: Autor: Enrique Antonio Fernandez Torres
+#: Fecha: 25 Jun 2022
+#: Proposito: Sumar el total de casos por mes y anio
+#: Opciones: Ninguna
 
 _obtiene_campo(){
 local FECHA=$1 
